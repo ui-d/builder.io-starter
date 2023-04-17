@@ -1,6 +1,6 @@
 import { Builder } from '@builder.io/react'
 
-export default function Hero(props: { text: string }) {
+export function Hero(props: { text: string }) {
     let text = props?.text
 
     return (

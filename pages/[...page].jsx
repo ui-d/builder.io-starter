@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 import { BuilderComponent, builder, useIsPreviewing } from '@builder.io/react';
 import DefaultErrorPage from 'next/error';
 import Head from 'next/head';
-import { Hero } from '../components/hero/Hero';
+import { Hero } from '../components/Hero/Hero';
 
 
 // Replace with your Public API Key
